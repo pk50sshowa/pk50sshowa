@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pk50sshowa
 - 👀 I’m interested in ... transitioning to a career from Japanese interpreting/translating to becoming a programmer, keeping some of my skills in the former realm in my progression to the latter.
-- 🌱 I’m currently learning ... (re-learning HTML), CSS, Javascript, and any other languages necessary to get in the front door. I have been working on coding exercises on freecodecamp.org and have just started a part-time coding bootcamp.
-- 💞️ I’m looking to collaborate on ... any help with projects that will help build my portfolio in order to gain a position as a full-time junior front-end developer.
+- 🌱 I’m currently learning ... (re-learning HTML), CSS, Javascript and its various APIs, and any other languages necessary to get in the front door. I have started a coding bootcamp.
+- 💞️ I’m looking to collaborate on ... any help with projects that will help build my portfolio in order to gain a position as a full-time front-end developer.
 - 📫 How to reach me ... Here on Github, or by email at paul＠pjkoehler.com
 
 <!---
